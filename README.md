@@ -1,2 +1,2 @@
 # MLB-Analysis
-# This repository contains several MLB analyses
+This repository contains several MLB analyses
